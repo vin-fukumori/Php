@@ -10,7 +10,7 @@
     <?php
     
 
-    // Dados de conexão com o banco de dados
+    // Dados conexão com o banco de dados
     $host = 'db4free.net';
     $port = '3306';
     $dbname = 'trampo10';
